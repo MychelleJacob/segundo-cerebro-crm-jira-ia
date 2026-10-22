@@ -74,6 +74,9 @@ Todos os artefatos produzidos no Estúdio do NotebookLM e as comprovações de c
 (https://github.com/user-attachments/files/33844553/Guia_AGENTE_Estudo_CRM_Jira_IA.pdf)
 
 📸 Evidências de Citações do Chat: Capturas de tela demonstrando o suporte estrito das fontes salvas na pasta assets/prints/.
+<img width="957" height="549" alt="image" src="https://github.com/user-attachments/assets/34f74470-eac8-4a1d-a889-63aa082cfbfe" />
+<img width="1110" height="593" alt="image" src="https://github.com/user-attachments/assets/e8468248-a726-4041-8713-de0e88c1bb0a" />
+
 🔗 Link do Notebook Compartilhado https://notebook.google.com/notebook/012a4d6b-9222-4823-ac58-a6040833473f
 
 O caderno de estudos pode ser acessado no link público abaixo (configurado como somente leitura e sem dados sensíveis):
@@ -88,5 +91,4 @@ Frameworks: Lean Startup, Business Model Canvas (BMC), Scrum e Kanban
 Plataformas de Referência: RD Station, HubSpot e Kommo
 Engenharia de Automação: Jira Automation, Smart Values, Webhooks e APIs de Inteligência Artificial
 
-Desenvolvido por Seu Nome
- durante o Bootcamp DIO.
+Desenvolvido por Mychelle Jacob durante o Bootcamp DIO.
